@@ -576,7 +576,7 @@
     <string name="candies_">"doces."</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Opacidade do Controlador:"</string>
-    <string name="You_dont_own_the_team_">"Você não é dono da equipe:"</string>
+    <string name="You_dont_own_the_team_">"Você não é dono da equipe."</string>
     <string name="User_has_already_been_invited_">"O usuário já foi convidado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximo de jogadores permitidos na equipe:"</string>
     <string name="Name_is_already_in_use_">"Este nome já está em uso."</string>
@@ -658,7 +658,7 @@
     <string name="CHALLENGE_OPTIONS">"OPÇÕES DE DESAFIO"</string>
     <string name="Accept">"Aceitar"</string>
     <string name="Decline">"Recusar"</string>
-    <string name="Challenge_Declined">"Desafio Recusado"</string>
+    <string name="Challenge_Declined">"Desafio Recusado."</string>
     <string name="Spectators_">"Espectadores:"</string>
     <string name="Nebula_Collector">"Coletor de Nebulas"</string>
     <string name="Nebula_Hoarder">"Colecionador de Nebulas"</string>
@@ -746,7 +746,7 @@
     <string name="WIN">VITÓRIA</string>
     <string name="LOSS">DERROTA</string>
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
-    <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
+    <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin.</string>
     <string name="LEGEND">LENDA</string>
     <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
